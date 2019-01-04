@@ -39,11 +39,14 @@ Recursos | URL
 ---------|-----
 IHE Internacional | https://www.ihe.net 
 IHE Brasil | http://www.ihe.org.br/ 
-Gazelle Online Test Management System | https://gazelle.ihe.net/ 
 IHE Technical Frameworks | http://ihe.net/Technical_Frameworks 
 Webinar: IHE ITI Framework Introduction | https://youtu.be/609bBW9RmCg 
-Webinar: Introduction of IHE PIX/PDQv3 Profiles | https://youtu.be/tO6Fd6oJ_3E 
 Webinar: Document Sharing overview | https://www.youtube.com/watch?v=VG1oF5FEijY  
-Webinar: Introduction of IHE XDS/Document Sharing | https://youtu.be/zLS1mPxdbMI   
+Webinar: Introduction of IHE XDS/Document Sharing | https://youtu.be/zLS1mPxdbMI
+NIST XDS ToolKit | https://github.com/usnistgov/iheos-toolkit2
+Webinar: Introduction of IHE PIX/PDQv3 Profiles | https://youtu.be/tO6Fd6oJ_3E 
+Gazelle Patient Manager | https://gazelle.ihe.net/PatientManager/home.seam
+Gazelle Framework Documentation | https://gazelle.ihe.net/gazelle-documentation
+
 
 
