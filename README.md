@@ -26,15 +26,11 @@ Referências:
 
 [Considerações sobre o processo de instalação](Technical%20Instructions/tech_inst-2.md) da ferramenta [NIST XDS ToolKit](https://github.com/usnistgov/iheos-toolkit2)
 
-Atores: Document Source e Document Consumer
+Atores: Document Source e Document Consumer - [testes preliminares](Technical%20Instructions/tech_inst-3.md)
 
-- Execute alguns [testes preliminares](Technical%20Instructions/tech_inst-3.md)
+[Projeto SOAPUI](./SOAPUI%20Projects/NIST%20XDS-Toolkit-Examples-soapui-project.xml) com exemplos baseados na utilização da ferramenta NIST XDS ToolKit 
 
-Observações gerais:
-
-- Veja [Projeto SOAPUI](./SOAPUI%20Projects/NIST%20XDS-Toolkit-Examples-soapui-project.xml) com exemplos baseados na utilização da ferramenta NIST XDS ToolKit 
-
-- Forum técnico internacional de [desenvolvedores XDS.b](https://groups.google.com/forum/#!forum/ihe-xds-implementors)
+Forum técnico internacional de [desenvolvedores XDS.b](https://groups.google.com/forum/#!forum/ihe-xds-implementors)
 
 -----
 
@@ -50,17 +46,13 @@ Referências:
 - [IHE ITI Vol2x](https://www.ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_TF_Vol2x.pdf#page=59) - HL7 v3 Transmission and Trigger Event Control Act
 Wrappers
 
-- Execute alguns [testes preliminares](Technical%20Instructions/tech_inst-4.md)
+Ator: Patient Demographics Consumer - [testes preliminares](Technical%20Instructions/tech_inst-4.md)
 
-Ator: Patient Identity Source 
+Ator: Patient Identity Source - [testes preliminares](Technical%20Instructions/tech_inst-5.md)
 
-- Execute alguns [testes preliminares](Technical%20Instructions/tech_inst-5.md)
+[Projeto SOAPUI](./SOAPUI%20Projects/Gazelle-Patient-Manager-examples-soapui-project.xml) com exemplos de PIXv/PDQv3 baseados na utilização da ferramenta [Gazelle Patient Manager](https://gazelle.ihe.net/PatientManager/home.seam) 
 
-Observações gerais:
-
-- Veja [Projeto SOAPUI](./SOAPUI%20Projects/Gazelle-Patient-Manager-examples-soapui-project.xml) com exemplos de PIXv/PDQv3 baseados na utilização da ferramenta [Gazelle Patient Manager](https://gazelle.ihe.net/PatientManager/home.seam) 
-
-- Forum técnico internacional de desenvolvedores [PIXv3/PDQv3](https://groups.google.com/forum/#!forum/ihe_pix_pdq_testing)
+Forum técnico internacional de desenvolvedores [PIXv3/PDQv3](https://groups.google.com/forum/#!forum/ihe_pix_pdq_testing)
 
 -----
 
