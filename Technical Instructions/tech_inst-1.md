@@ -1,4 +1,4 @@
-Instrução para registro de sistemas no Gazelle {#instrução-para-registro-de-sistemas-no-gazelle .ListParagraph}
+*Instrução para registro de sistemas no Gazelle*
 ==============================================
 
 Este documento descreve um roteiro para a criação de conta,
