@@ -18,11 +18,11 @@
 Referências:
 
 - [IHE ITI Vol 1](https://www.ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_TF_Vol2b.pdf#page=81) - Cross-enterprise Document Sharing
-- [IHR ITI Vol 2a ITI-18](https://www.ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_TF_Vol2a.pdf#page=91) - Registry Stored Query
-- [IHR ITI Vol 2b ITI-41](https://www.ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_TF_Vol2b.pdf#page=153) - Provide and Register Document Set-b
-- [IHR ITI Vol 2b ITI-42](https://www.ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_TF_Vol2b.pdf#page=164) - Register Document Set-b
-- [IHR ITI Vol 2b ITI-43](https://www.ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_TF_Vol2b.pdf#page=175) - Retrive Document Set
-- [IHR ITI Vol 3](https://www.ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_TF_Vol3.pdf#page=4) - Metadata used in Document Sharing profiles
+- [IHE ITI Vol 2a ITI-18](https://www.ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_TF_Vol2a.pdf#page=91) - Registry Stored Query
+- [IHE ITI Vol 2b ITI-41](https://www.ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_TF_Vol2b.pdf#page=153) - Provide and Register Document Set-b
+- [IHE ITI Vol 2b ITI-42](https://www.ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_TF_Vol2b.pdf#page=164) - Register Document Set-b
+- [IHE ITI Vol 2b ITI-43](https://www.ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_TF_Vol2b.pdf#page=175) - Retrive Document Set
+- [IHE ITI Vol 3](https://www.ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_TF_Vol3.pdf#page=4) - Metadata used in Document Sharing profiles
 
 [Considerações sobre o processo de instalação](Technical%20Instructions/tech_inst-2.md) da ferramenta [NIST XDS ToolKit](https://github.com/usnistgov/iheos-toolkit2)
 
