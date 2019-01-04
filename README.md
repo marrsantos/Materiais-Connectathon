@@ -4,6 +4,8 @@
 
 - Instruções sobre o processo de [Registro de Sistemas no Gazelle](Technical%20Instructions/tech_inst-1.md)
 
+-----
+
 ### Perfil IHE XDS.b Cross-Enterprise Document Sharing  
 
 - [NIST XDS ToolKit](https://github.com/usnistgov/iheos-toolkit2): Considerações sobre o [processo de instalação](Technical%20Instructions/tech_inst-2.md)
@@ -16,6 +18,7 @@ Atores: Document Source e Document Consumer
 
 - Forum técnico internacional de [desenvolvedores XDS.b](https://groups.google.com/forum/#!forum/ihe-xds-implementors)
 
+-----
 
 ### Perfis IHE Patient Demographics Query (PDQv3) e Patient Identifier Cross-Referencing (PIXv3)
 
@@ -31,6 +34,7 @@ Ator: Patient Identity Source
 
 - Forum técnico internacional de desenvolvedores [PIXv3/PDQv3](https://groups.google.com/forum/#!forum/ihe_pix_pdq_testing)
 
+-----
 
 ### Outros Recursos
 
