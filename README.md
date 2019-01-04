@@ -7,7 +7,11 @@
 
 - URL de acesso ao sistema Gazelle: [https://ihe.wustl.edu/gazelle-na/](https://ihe.wustl.edu/gazelle-na/)
 
-- Instruções sobre criação de conta e processo de [Registro de Sistemas no Gazelle](Technical%20Instructions/tech_inst-1.md)
+- Instruções sobre criação de conta e processo de [Registro de Sistemas](Technical%20Instructions/tech_inst-1.md)
+
+- Slides reunião de [Kickoff](http://www.ihe.org.br/siteWP/connectathon-2019-kickoff/)
+
+- [Cronograma](http://www.ihe.org.br/siteWP/connectathon-2019-cronograma/)
 
 -----
 
