@@ -1,1 +1,13 @@
-# PROAD-SUS-HAOC-IHE
+# Maratona de Conectividade PROAD-SUS-HAOC-IHE
+
+
+* [Instrução para Registro de Sistemas no Gazelle](Technical\ Instructions/tech_inst-1.md)
+
+Instalando a ferramenta NIST XDS ToolKit
+
+
+
+
+
+
+
