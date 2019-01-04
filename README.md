@@ -16,6 +16,8 @@ Atores: Document Source e Document Consumer
 
 - Execute alguns [testes preliminares](Technical%20Instructions/tech_inst-3.md)
 
+Observações gerais:
+
 - Veja [Projeto SOAPUI](./SOAPUI%20Projects/NIST%20XDS-Toolkit-Examples-soapui-project.xml) com exemplos baseados na utilização da ferramenta NIST XDS ToolKit 
 
 - Forum técnico internacional de [desenvolvedores XDS.b](https://groups.google.com/forum/#!forum/ihe-xds-implementors)
@@ -31,6 +33,8 @@ Ator: Patient Demographics Consumer
 Ator: Patient Identity Source 
 
 - Execute alguns [testes preliminares](Technical%20Instructions/tech_inst-5.md)
+
+Observações gerais:
 
 - Veja [Projeto SOAPUI](./SOAPUI%20Projects/NIST%20XDS-Toolkit-Examples-soapui-project.xml) com exemplos de PIXv/PDQv3 baseados na utilização da ferramenta [Gazelle Patient Manager](https://gazelle.ihe.net/PatientManager/home.seam) 
 
