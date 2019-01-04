@@ -15,7 +15,15 @@
 
 ### Perfil IHE XDS.b Cross-Enterprise Document Sharing  
 
-- [NIST XDS ToolKit](https://github.com/usnistgov/iheos-toolkit2): Considerações sobre o [processo de instalação](Technical%20Instructions/tech_inst-2.md)
+Referências:
+
+- [IHE ITI Vol 1](https://www.ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_TF_Vol2b.pdf#page=81) Cross-enterprise Document Sharing
+- [IHR ITI Vol 2a ITI-18](https://www.ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_TF_Vol2a.pdf#page=91) Registry Stored Query
+- [IHR ITI Vol 2b ITI-41](https://www.ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_TF_Vol2b.pdf#page=153) Provide and Register Document Set-b
+- [IHR ITI Vol 2b ITI-42](https://www.ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_TF_Vol2b.pdf#page=164) Register Document Set-b
+- [IHR ITI Vol 2b ITI-43](https://www.ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_TF_Vol2b.pdf#page=175) Retrive Document Set
+
+[Considerações sobre o processo de instalação](Technical%20Instructions/tech_inst-2.md) da ferramenta [NIST XDS ToolKit](https://github.com/usnistgov/iheos-toolkit2)
 
 Atores: Document Source e Document Consumer
 
@@ -30,6 +38,16 @@ Observações gerais:
 -----
 
 ### Perfis IHE Patient Demographics Query (PDQv3) e Patient Identifier Cross-Referencing (PIXv3)
+
+Referências:
+
+- [IHE ITI Vol 1](https://www.ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_TF_Vol1.pdf#page=231) Patient Identifier Cross-referencing HL&v3
+- [IHE ITI Vol 1](https://www.ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_TF_Vol1.pdf#page=236) Patient Demographics Query HL7v3
+
+- [IHE ITI Vol2b ITI-44](https://www.ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_TF_Vol2b.pdf#page=192) Patient Identity Feed HL7v3
+- [IHE ITI Vol2b ITI-45](https://www.ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_TF_Vol2b.pdf#page=217) PIXv3 Query
+- [IHE ITI Vol2b ITI-47](https://www.ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_TF_Vol2b.pdf#page=245) Patient Demographics Query HL7v3
+
 
 Ator: Patient Demographics Consumer
 
@@ -61,6 +79,7 @@ Webinar: Introduction of IHE XDS/Document Sharing | https://youtu.be/zLS1mPxdbMI
 NIST XDS ToolKit | https://github.com/usnistgov/iheos-toolkit2
 Webinar: Introduction of IHE PIX/PDQv3 Profiles | https://youtu.be/tO6Fd6oJ_3E 
 Gazelle Patient Manager | https://gazelle.ihe.net/PatientManager/home.seam
+
 
 
 
