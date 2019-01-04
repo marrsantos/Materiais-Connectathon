@@ -9,9 +9,7 @@
 
 - Instruções sobre criação de conta e processo de [Registro de Sistemas](Technical%20Instructions/tech_inst-1.md)
 
-- Slides reunião de [Kickoff](http://www.ihe.org.br/siteWP/connectathon-2019-kickoff/)
-
-- [Cronograma](http://www.ihe.org.br/siteWP/connectathon-2019-cronograma/)
+- [Slides](http://www.ihe.org.br/siteWP/connectathon-2019-kickoff/) reunião de Kickoff e [Cronograma](http://www.ihe.org.br/siteWP/connectathon-2019-cronograma/) de atividades
 
 -----
 
