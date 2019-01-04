@@ -1,5 +1,7 @@
 # Maratona de Conectividade PROADI-SUS digiSUS Infoestrutura HAOC - IHE
 
+
+-----
 ### Período de Registro: 7/1/2019 a 20/1/2019
 
 - Instruções sobre o processo de [Registro de Sistemas no Gazelle](Technical%20Instructions/tech_inst-1.md)
@@ -50,7 +52,7 @@ Webinar: Introduction of IHE XDS/Document Sharing | https://youtu.be/zLS1mPxdbMI
 NIST XDS ToolKit | https://github.com/usnistgov/iheos-toolkit2
 Webinar: Introduction of IHE PIX/PDQv3 Profiles | https://youtu.be/tO6Fd6oJ_3E 
 Gazelle Patient Manager | https://gazelle.ihe.net/PatientManager/home.seam
-Gazelle Framework Documentation | https://gazelle.ihe.net/gazelle-documentation
+
 
 
 
