@@ -162,4 +162,4 @@ Dependendo do perfil selecionado, pode aparecer um botão laranja “Missing dep
 ![](./media/image19.png){:width="6.6930555555555555in"
 height="2.8444444444444446in"}
 
-Se este for o caso, pressione este botão para que o sistema Gazelle sugerira os novos perfis/atores que precisam ser considerados para solucionar a dependência.
+Se este for o caso, pressione este botão para que o sistema Gazelle sugerira os novos perfis/atores que precisam ser considerados para solucionar a dependência. 
