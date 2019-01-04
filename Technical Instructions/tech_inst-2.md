@@ -2,19 +2,17 @@
 
 O XDS Toolkit é uma coleção de ferramentas de teste focadas no conjunto de perfis para compartilhamento de documentos publicada pelo Integrating the Healthcare Enterprise (IHE). O Toolkit foi desenvolvido pelo Instituto Nacional de Padrões e Tecnologia (NIST) dos Estados Unidos. Trata-se de software de código aberto, de domínio público, não coberto por direitos autorais.
 
-**Download e Instalação**
-
-[Página oficial do NIST XDS ToolKit](https://github.com/usnistgov/iheos-toolkit2/wiki/installing)
+[Download e Instalação](https://github.com/usnistgov/iheos-toolkit2/wiki/installing)
 
 
-**IMPORTANTE: Configuração de cache externo**
+IMPORTANTE: Configuração de cache externo
 
 Se o Cache Externo não estiver configurado, uma mensagem de erro será apresentada na tela na primeira vez que o XDS ToolKit for inicializado. Neste caso, abra o arquivo toolkit.properties dentro da pasta /tomcat/webapps/**SuaApp**/WEB-INF/classes/ e configure apropriadamente o parâmetro: External_Cache.
 O path do external cache não deve ter espaços e caracteres especiais e a pasta precisa ter permissão apropriada.
 
-**SuaAPP** -> _nome de sua aplicação_
+_SuaAPP -> nome de sua aplicação_
 
-**Outras leituras recomendadas**
+### Leituras recomendadas
 
 [Cobertura de Perfis IHE](
 https://github.com/usnistgov/iheos-toolkit2/wiki/Profile-Coverage)
@@ -35,7 +33,7 @@ https://github.com/usnistgov/iheos-toolkit2/wiki/Using-simulators-instead-of-the
 https://github.com/usnistgov/iheos-toolkit2/wiki/Conformance-Test-Tool)
 
 
-**Verificando se a instalação está funcionando**
+### Verificando se a instalação está funcionando
 
 Acesse a instância do XDS Toolkit, clique em “Sign in” e informe a senha “easy”.
 
