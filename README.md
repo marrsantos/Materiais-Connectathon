@@ -4,7 +4,10 @@
 -----
 ### Período de Registro: 7/1/2019 a 20/1/2019
 
-- Instruções sobre o processo de [Registro de Sistemas no Gazelle](Technical%20Instructions/tech_inst-1.md)
+
+- URL de acesso ao sistema Gazelle: [https://ihe.wustl.edu/gazelle-na/](https://ihe.wustl.edu/gazelle-na/)
+
+- Instruções sobre criação de conta e processo de [Registro de Sistemas no Gazelle](Technical%20Instructions/tech_inst-1.md)
 
 -----
 
