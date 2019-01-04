@@ -1,4 +1,3 @@
-
 # Instrução para Registro de Sistemas no Gazelle
 
 Esta págna descreve os passos básicos para cadastramento de organização, contatos e registro de sistemas para uma
