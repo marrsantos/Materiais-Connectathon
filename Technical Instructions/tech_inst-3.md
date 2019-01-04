@@ -1,4 +1,4 @@
-##Test 12049
+## Test 12049
 Submit one document via XDS.b
 
 Verify that the XDS.b Document Source can submit a single document via Provide and Register Document Set-b transaction. 
