@@ -1,6 +1,4 @@
-# Maratona de Conectividade PROADI-SUS-HAOC-IHE
-
-
+# Maratona de Conectividade PROADI-SUS digiSUS Infoestrutura HAOC - IHE
 
 ### Período de Registro: 7/1/2019 a 20/1/2019
 
