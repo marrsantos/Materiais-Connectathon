@@ -5,10 +5,4 @@
 
 Instalando a ferramenta NIST XDS ToolKit
 
-
-
-
-
-
-
-
+# TESTE
